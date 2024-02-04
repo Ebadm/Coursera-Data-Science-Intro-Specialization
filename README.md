@@ -34,5 +34,5 @@ Upon finishing the specialization, learners have the opportunity to take a certi
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/4148a80bb4b47209634381e3789f24ec"><img src="https://github.com/Ebadm/IBM-Data-Science-Professional-Certificate/assets/64616825/671d9cea-01c2-4474-ab41-19ad733fe8cf" height="400"></a>
+  <a href="https://coursera.org/share/4148a80bb4b47209634381e3789f24ec"><img src="https://github.com/Ebadm/Coursera-Data-Science-Intro-Specialization/assets/64616825/e1bc713b-25f8-4ffa-8fa1-188c138b9416" height="400"></a>
 </p>
